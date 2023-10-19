@@ -58,3 +58,10 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+Для уставновки нужно чтобы была создана бд кадеровка utf8_general_ci
+![img.png](img.png)
+
+После наката миграций, чтобы получить доступ к админке 
+нужно набрать url как на картинке
+![img_1.png](img_1.png)
+
